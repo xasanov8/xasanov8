@@ -2,14 +2,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullohDev07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullohDev07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=AbdullohDev07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AbdullohDev07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullohDev07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-###
+<br/><br/>
+<hr/>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/cb0ba3d3302ffd701cadbc2063b859e2ab47b984b043cfa95a32c056cf8ebb98/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578627a513564334231646e5630656d64704d5855325a6a49334f47307a4e44686f64574a6d65476477636a4532596a6c6f5957686c62435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c615670304179715235624773433543626d2f67697068792e676966"  />
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 ###
 
